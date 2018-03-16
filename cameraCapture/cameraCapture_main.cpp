@@ -1,3 +1,4 @@
+//调用相机摄像头，并显示canny边缘提取效果
 #include <opencv2/opencv.hpp>
 
 using namespace cv;

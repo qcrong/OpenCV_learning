@@ -1,3 +1,4 @@
+//读取视频文件，并播放
 #include <opencv2/opencv.hpp>
 
 using namespace cv;
